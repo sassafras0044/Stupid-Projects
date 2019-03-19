@@ -21,7 +21,7 @@
             flex-grow: .5;
         }
 
-    .round .game-spacer {
+    .round .l-game-spacer {
         flex-grow: 1;
     }
 
@@ -54,16 +54,16 @@ li.game {
         margin-right: 1px;
     }
 
-li.game-top {
+li.l-game-top {
     border-bottom: 3px solid #aaa;
 }
 
-li.game-spacer {
+li.l-game-spacer {
     border-right: 3px solid #aaa;
     border-left: 0px;
-    min-height: 40px;
+    min-height: 30px;
 }
 
-li.game-bottom {
+li.l-game-bottom {
     border-top: 3px solid #aaa;
 }

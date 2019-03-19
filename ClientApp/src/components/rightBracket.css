@@ -61,7 +61,7 @@ li.game-top {
 li.game-spacer {
     border-left: 3px solid #aaa;
     border-right: 0px;
-    min-height: 40px;
+    min-height: 30px;
 }
 
 li.game-bottom {
