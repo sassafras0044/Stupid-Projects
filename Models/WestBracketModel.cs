@@ -20,10 +20,7 @@ namespace reactapp.Models
                 new TeamModel {Id = 7, SchoolName = "Florida State", Seed = 4},
                 new TeamModel {Id = 8, SchoolName = "Vermont", Seed = 13},
                 new TeamModel {Id = 9, SchoolName = "Buffalo", Seed = 6},
-                new TeamModel {Id = 10, SchoolName = "St.Johns", Seed = },
-                new TeamModel {},
-                new TeamModel {},
-                new TeamModel {}
+                new TeamModel {Id = 10, SchoolName = "St.Johns", Seed = 11}
             };
         }
 
