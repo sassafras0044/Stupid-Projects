@@ -6,11 +6,11 @@ class Bracket extends React.Component {
 
     render() {
         return (
-            <div>
-                <div>
+            <div style={{"margin" : "40px"}}>
+                <div style={{"width" : "800px", "float" : "left"}}>
                     <LeftBracket></LeftBracket>
                 </div>
-                <div>
+                <div style={{ "width": "800px", "float" : "right" }}>
                     <RightBracket></RightBracket>
                 </div>
             </div>
